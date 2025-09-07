@@ -50,7 +50,7 @@ class PelisCollection {
     return listaFiltrada;
   }
 }
-export { PelisCollection, Peli };
+export { PelisCollection, Peli, SearchOptions };
 
 //Pruebas en el modelo directamente
 /* const listadoPelis = new PelisCollection();
